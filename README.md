@@ -1,2 +1,2 @@
 # HCI-Portfolio
-A school portfolio for MMCM.
+My school portfolio for MMCM.
