@@ -13,7 +13,7 @@ comes to presenting and sharing prototypes to users who are not physically prese
 without flaws, Figma will require internet access when saving edits thus keeping the user from exiting the program if they have no internet connection. It will also be a bit of 
 a problem when used in a larger screen since small buttons will be difficult to press.
 
-INFORMATION
+PROTOTYPE INFORMATION
 The tasks for this prototype are split into three (3) different sections: Main Menu Tasks, Schedule Tasks, and Tasks pages. Below are some of the tasks that the selected 
 participants will be asked to perform for each section to showcase the prototype’s functionality:
 -	Enter and Exit the Prototype. (Main Menu Task)
